@@ -1,4 +1,4 @@
-## Hi there 👋
+![Susan Kare, Macintosh Icons](https://github.com/garrying/wwworkshop/raw/main/media/susan-kare-icons.gif)
 
 <!--
 **adtytiw/adtytiw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
