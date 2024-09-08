@@ -1,16 +1,10 @@
-![Susan Kare, Macintosh Icons](https://github.com/garrying/wwworkshop/raw/main/media/susan-kare-icons.gif)
-
-<!--
-**adtytiw/adtytiw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+        <br>
+        <p><strong>We're having a really bad day.</strong></p>
+        <p>This user is still working on his skills. Current focus on Web development and on doing python as side-note. Check out stats:</p>
+        <div id="suggestions">
+        <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Contact Support</a> —
+        <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">GitHub Status</a> —
+        <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">@githubstatus</a>
+        </div>
+</div>
