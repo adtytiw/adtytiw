@@ -3,6 +3,7 @@
     <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi,%20I'm%20Aditya%20👨‍💻&width=300&height=90" alt="SVG Banners">
   </a>
 </div>
+<br>
 <div align="center">
 <p>   
   <a href="mailto:adtytiw@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=0078D4"></a>
