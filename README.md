@@ -17,7 +17,6 @@
         <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">@githubstatus</a>
         </div>
 </div>
-## 📊 GitHub Stats:
 
 <div align="center">
   <a href="https://github.com/adtytiw">
@@ -26,8 +25,11 @@
   <a href="https://github.com/adtytiw">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=adtytiw&theme=dark&hide_border=false" width="400px" alt="GitHub Streak">
   </a>
-  <a href="https://github.com/adtytiw">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adtytiw&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" width="400px" alt="Top Languages">
-  </a>
 </div>
-
+<div align="center">
+  <div id="suggestions">
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Contact Support</a> —
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">GitHub Status</a> —
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">@githubstatus</a>
+  </div>
+</div>
