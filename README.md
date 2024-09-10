@@ -1,6 +1,5 @@
-
-<div align="center">
 [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi,%20I'm%20AriieSiiS%20👨‍💻&width=1200&height=300)](https://github.com/Akshay090/svg-banners)
+<div align="center">
         <p><strong>We're having a really bad day.</strong></p>
 <p>   
   <a href="mailto:adtytiw@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=0078D4"></a>
