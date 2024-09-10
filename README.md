@@ -1,5 +1,7 @@
-<div>
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi,%20I'm%20Aditya%20👨‍💻&width=600&height=150)](https://github.com/Akshay090/svg-banners)
+<div align="center">
+  <a href="https://github.com/Akshay090/svg-banners">
+    <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi,%20I'm%20Aditya%20👨‍💻&width=600&height=150" alt="SVG Banners">
+  </a>
 </div>
 <div align="center">
         <p><strong>We're having a really bad day.</strong></p>
