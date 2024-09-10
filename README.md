@@ -12,15 +12,6 @@
         <p><strong>It's a good day, innit?</strong></p>
         <p>This user is still working on his skills. Current focus on <br>Web development and on doing python as side-note. <br></p>
 </div>
-
-<div align="center">
-  <a href="https://github.com/adtytiw">
-    <img src="https://github-readme-stats.vercel.app/api?username=adtytiw&theme=dark&hide_border=false&include_all_commits=false&count_private=true" width="400px" alt="GitHub Stats">
-  </a>
-  <a href="https://github.com/adtytiw">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=adtytiw&theme=dark&hide_border=false" width="400px" alt="GitHub Streak">
-  </a>
-</div>
 <div align="center">
   <br><p>Check out my stats :</p>
   <div id="suggestions">
