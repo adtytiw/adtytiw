@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/Akshay090/svg-banners">
-    <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi,%20I'm%20Aditya%20👨‍💻&width=600&height=150" alt="SVG Banners">
+    <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi,%20I'm%20Aditya%20👨‍💻&width=300&height=75" alt="SVG Banners">
   </a>
 </div>
 <div align="center">
@@ -8,6 +8,7 @@
   <a href="mailto:adtytiw@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=0078D4"></a>
   <a href="https://www.linkedin.com/in/aditya-tiwari-38ba35310" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0078D4"></a>
 </p>
+        <p><strong>It's a good day, innit?</strong></p>
         <p>This user is still working on his skills. Current focus on <br>Web development and on doing python as side-note. <br>Check out stats:</p>
         <div id="suggestions">
         <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Contact Support</a> —
