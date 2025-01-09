@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/aditya-tiwari-38ba35310" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0078D4"></a>
 </p>
         <p><strong>It's a good day, innit?</strong></p>
-        <p>This user is still working on his skills. Current focus on <br>Web development and on doing python as side-note. <br></p>
+        <p>This user is still working on his skills. Current focus on <br>Machine Learning with Python. <br></p>
 </div>
 <div align="center">
   <br><p>Check out my stats :</p>
