@@ -1,8 +1,6 @@
-<div align="center">
-  <a href="https://github.com/Akshay090/svg-banners">
-    <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi,%20I'm%20Aditya&width=600&height=150" alt="SVG Banners">
-  </a>
-</div>
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTZmYnNhc3cxenJsdWtzZjJyOHlha21xNmN5emltcHJiY2owMTNqNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lIzAEoZEn571u/giphy.webp" />
+</p>
 <br>
 <div align="center">
 <p>   
@@ -19,4 +17,9 @@
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">GitHub Status</a> —
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">@githubstatus</a>
   </div>
+</div>
+<div align="center">
+  <a href="https://github.com/Akshay090/svg-banners">
+    <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=ok bye,%20I'm%20Aditya&width=600&height=150" alt="SVG Banners">
+  </a>
 </div>
