@@ -16,9 +16,3 @@
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">GitHub Status</a> —
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">@githubstatus</a>
   </div>
-</div>
-<div align="center">
-  <a href="https://github.com/Akshay090/svg-banners">
-    <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi,%20I'm%20Aditya&width=600&height=150" alt="SVG Banners">
-  </a>
-</div>
