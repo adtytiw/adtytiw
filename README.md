@@ -15,18 +15,10 @@
   </a>
 </p>
 
-<p><strong>It's a good day, innit?</strong></p>
 <p>
   This user is still working on his skills. Current focus on <br>
   Machine Learning with Python. <br>
 </p>
 </div>
 
-<div align="center">
-  <br><p>Check out my stats :</p>
-  <div id="suggestions">
-    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Contact Support</a> —
-    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">GitHub Status</a> —
-    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">@githubstatus</a>
-  </div>
-</div>
+
